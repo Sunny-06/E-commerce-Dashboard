@@ -63,7 +63,8 @@ Responsive, modern front-end design principles
 
 📸 Preview
 
-![Dashboard Preview](screenshot (84).png)
+![Dashboard Preview](screenshot(84).png)
+
 
 👨‍💻 Developed By
 
